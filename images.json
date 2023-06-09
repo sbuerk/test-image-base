@@ -3,12 +3,12 @@
         "context": "base-testing-php81",
         "docker-image-basename": "typo3\/core-testing-php81",
         "docker-image-name": "sbuerk\/base-testing-php81",
-        "full": "1.0.6",
+        "full": "1.0.7",
         "gh-image-name": "ghcr.io\/sbuerk\/base-testing-php81",
         "lookup-name": "base-testing-php81",
         "major": 1,
         "minor": 0,
-        "patchlevel": 6,
+        "patchlevel": 7,
         "platforms": "linux\/amd64,linux\/arm64",
         "short": "1.0"
     }
